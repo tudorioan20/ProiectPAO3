@@ -1,13 +1,13 @@
 Proiect PAO Cabinet Stomatologic
 
 Obiecte :
-Client
-ClientVIP
-Dentist
-Secretara
-Persoana
-Programare
-Adresa
+Client,
+ClientVIP,
+Dentist,
+Secretara,
+Persoana,
+Programare,
+Adresa,
 Cabinet
 
 Actiuni posibile:
